@@ -2,7 +2,15 @@
 
 My Wallet is a simple application uses hooks,contextAPI and reducer features of the react.
 
-### `yarn start`
+## build and start
+execute install
+```
+> yarn install
+```
+start the application
+```
+> yarn start
+```
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
