@@ -42,7 +42,7 @@ body {
 
 .top {
   height: 40vh;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url("banner.jpg");
+  background-color: #0C1139;
   background-size: cover;
   background-position: center;
   position: relative;
@@ -137,7 +137,7 @@ body {
 }
 
 .add__type {
-  width: 55px;
+  width: 7%;
   border: 1px solid #e7e7e7;
   height: 44px;
   font-size: 18px;
